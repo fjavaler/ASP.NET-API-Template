@@ -1,3 +1,3 @@
-# ASP.NET Template API
+# ASP.NET API Template
 
 An ASP.NET API Template with SEQ logging.
